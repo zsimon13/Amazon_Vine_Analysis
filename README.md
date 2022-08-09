@@ -12,7 +12,7 @@ In total there were **8409** reviews.
 
 There was a total of **4347** 5-Star reviews
 - **15** Vine (Paid) 5-Star reviews
-- **4332** Non-Vine (Unpaid) 5_Star reviews
+- **4332** Non-Vine (Unpaid) 5-Star reviews
 
 5-Star Vine (Paid) reviews made up a total of **31.9%** of the total reviews
 
