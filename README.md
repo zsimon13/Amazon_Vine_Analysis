@@ -25,6 +25,6 @@ There was a total of **4347** 5-Star reviews
 
 
 ## Summary
-When comparing the results of the product reviews, there does not seem to be any kind of positive bias from the Vine (Paid) reviews. Overall the Vine reviews actually had a lower percentage of 5-Star reviews (31.9%) comapred to the products with Non-Vine (Unpaid) reviews (51.8%). This seemingly means that the money did not affect the outcome of the customer review.
+When comparing the results of the product reviews, there does not seem to be any kind of positive bias from the Vine (Paid) reviews. Overall the Vine reviews actually had a lower percentage of 5-Star reviews (31.9%) compared to the products with Non-Vine (Unpaid) reviews (51.8%). This seemingly means that the money did not affect the outcome of the customer review.
 
 This result could however be skewed for by a number of uncontrollable factors. I believe an additonal analysis that would help calrify any bias would be a Star-rating distribution of Vine and Non-Vine reviews. Basically comparing how many and the percentage of 1, 2, 3, 4, and 5-Star reviews appeared in both Vine and Non-Vine reviews. This would better help determine if there was an overall postive bias to the Vine reviews instead of allowing only the 5-Satar reviews to be the factor.
